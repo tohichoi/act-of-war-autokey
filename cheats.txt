@@ -1,0 +1,13 @@
+Additional $1,000	fortknox
+Full map	keyholemaster
+Launch a super weapon at the pointer	yeepeekaye
+Unlimited money, power and entire tech tree	ineedalltechnos
+Spawn Russian T-80 tank	motherrussia
+Spawn CIA Armored SUV	coolihaveanewcar
+Spawn S.W.A.T. member	swatatyourorders
+Spawn British cop	greenjelly
+Spawn SA12 Anti-Aircraft Missile Launcher	blackhawkdown
+Spawn U.S. police officer	ymca
+Spawn President of The United States of America	coolimthepresident
+Spawn British Ambulance	bringoutthedead
+Camera mode (toggle with Ctrl-Shift-J)	bigbrother
